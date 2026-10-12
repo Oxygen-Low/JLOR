@@ -1,1 +1,1 @@
-Report bugs in the game so they can be fixed before the mod releases!
+Report bugs found in the game via issues so they can be fixed before the mod releases!
